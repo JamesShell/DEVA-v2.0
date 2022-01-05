@@ -1,0 +1,5 @@
+﻿Starting IIS Express ...
+Successfully registered URL "http://localhost:21167/" for site "DEVA.API" application "/"
+Successfully registered URL "https://localhost:44344/" for site "DEVA.API" application "/"
+Registration completed for site "DEVA.API"
+IIS Express is running.
